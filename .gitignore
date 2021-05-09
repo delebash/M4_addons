@@ -74,5 +74,9 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Exclude marketplace packs
-*/Content/M4/*
-*/Content/UltraDynamicSky/*
+Content/M4/*
+Content/UltraDynamicSky/*
+
+Content/KiteDemo
+Content/StarterContent
+Content/ThirdPerson
